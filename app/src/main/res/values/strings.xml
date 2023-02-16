@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FiashmanBook</string>
+    <string name="fish">Fishes</string>
+    <string name="bite">Bites</string>
+    <string name="gear">Gears</string>
+    <string name="history">Histories</string>
+</resources>
